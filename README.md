@@ -16,3 +16,7 @@
 <li>Conhecemos o conceito de "Classes de Equivalência"
 <li>Aprendemos sobre "Análise de valores de limite"
 <li>Falamos sobre o que testar em cenários onde há coleções de dados
+<li>Entendemos que código de testes também é código e precisa ser bem cuidado
+<li>Vimos como evitar duplicação de código usando generators
+<li>Aprendemos a executar um código antes de todos os testes com sections
+<li>Conhecemos mais da linha de comando do Catch2
