@@ -20,3 +20,7 @@
 <li>Vimos como evitar duplicação de código usando generators
 <li>Aprendemos a executar um código antes de todos os testes com sections
 <li>Conhecemos mais da linha de comando do Catch2
+<li>Vimos as vantagens de se testar uma funcionalidade antes mesmo de implementá-la
+<li>Aprendemos o que significa TDD (Test-Driven Development)
+<li>Entendemos sobre baby steps
+
