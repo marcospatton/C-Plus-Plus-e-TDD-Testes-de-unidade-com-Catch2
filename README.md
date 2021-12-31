@@ -12,3 +12,7 @@
 <li>Aprendemos a instalar e configurar o Catch2
 <li>Aprendemos a criar um teste usando as funcionalidades do Catch2
 <li>Vimos como o feedback é mais completo ao usar o Catch2
+<li>Aprendemos técnicas para identificar o que testar em nosso sistema
+<li>Conhecemos o conceito de "Classes de Equivalência"
+<li>Aprendemos sobre "Análise de valores de limite"
+<li>Falamos sobre o que testar em cenários onde há coleções de dados
