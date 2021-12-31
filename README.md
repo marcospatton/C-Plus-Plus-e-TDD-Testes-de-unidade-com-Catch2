@@ -23,4 +23,6 @@
 <li>Vimos as vantagens de se testar uma funcionalidade antes mesmo de implementá-la
 <li>Aprendemos o que significa TDD (Test-Driven Development)
 <li>Entendemos sobre baby steps
-
+<li>Conhecemos o motivo da demora na compilação do nosso projeto de testes
+<li>Organizamos nosso projeto de testes em vários arquivos
+<li>Finalmente diminuímos o tempo de compilação do nosso projeto
